@@ -1,0 +1,15 @@
+AUTOAI EXPERIMENT LOG FILE
+
+-  Date: 8/1/2024
+-  Submitted time: 11:46:32 PM
+-  End time: 11:53:22 PM
+-  Time elapsed: 6 minutes
+
+-  Experiment name: Credit Card Default Prediction.
+-  Data source: Credit Card Defaulter Prediction.csv
+-  Watson Studio asset: 23badddc-1d0a-4032-81a7-cb0dd5f85112
+-  Watson Machine Learning training guid: ad7fc76f-984a-4714-ba87-d5a32c7e7c80
+
+INFO   8/1/2024, 11:46:59 PM   Starting the AutoAI experiment
+INFO   8/1/2024, 11:51:35 PM   building pipeline p6 with best hyperparameters: {'bootstrap': true, 'compress_trees': true, 'criterion': 'gini', 'gpu_ids': array([0], dtype=uint32), 'hist_nbins': 256, 'max_depth': 3, 'max_features': 0.8896628428255039, 'min_samples_leaf': 1, 'n_estimators': 76, 'n_jobs': 4, 'random_state': 33, 'use_gpu': false, 'use_histograms': false, 'verbose': false}
+INFO   8/1/2024, 11:53:22 PM   AutoAI experiment completed.
